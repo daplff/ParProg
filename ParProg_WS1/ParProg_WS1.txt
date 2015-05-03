@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/histogram.c.o ./Debug/histogram_seq.c.o ./Debug/student_histogram_par.c.o
